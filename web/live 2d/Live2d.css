@@ -1,0 +1,8 @@
+#live2dcanvas {
+    position: fixed;
+    bottom: 20px;
+    padding-top: 1em;
+    width: 10em;
+    opacity: 1 !important; <!--是否淡化-->
+    right: 0;
+}
