@@ -146,7 +146,7 @@ template {
 a {
     background-color: transparent;
     text-decoration: none;
-    cursor: url(https://cdn.jsdelivr.net/gh/Li-Zi-stu/Blog@1.8/themes/Sakura/images/cursor/texto.cur), auto
+    cursor: url(https://cdn.jsdelivr.net/gh/Li-Zi-stu/Blog@1.9/themes/Sakura/images/cursor/ayuda.cur), auto
 }
 
 a:active,
@@ -338,7 +338,7 @@ h6 {
 
 p {
     margin-bottom: 1.5em;
-    cursor: url(https://cdn.jsdelivr.net/gh/moezx/cdn@3.1.9/img/Sakura/cursor/texto.cur), auto
+    cursor: url(https://cdn.jsdelivr.net/gh/Li-Zi-stu/Blog@1.9/themes/Sakura/images/cursor/texto.cur), auto
 }
 
 cite,
@@ -434,7 +434,7 @@ html {
 body {
     background: #fff;
     background-attachment: fixed;
-    cursor: url(https://cdn.jsdelivr.net/gh/moezx/cdn@3.1.9/img/Sakura/cursor/normal.cur), auto
+    cursor: url(https://cdn.jsdelivr.net/gh/Li-Zi-stu/Blog@1.9/themes/Sakura/images/cursor/norma.cur), auto
 }
 
 blockquote:after,
@@ -1854,7 +1854,7 @@ h1.page-title.mb- {
     background-size: contain;
     -webkit-transition: all .5s ease-in-out;
     transition: all .5s ease-in-out;
-    cursor: url(https://cdn.jsdelivr.net/gh/moezx/cdn@3.1.9/img/Sakura/cursor/No_Disponible.cur), auto;
+    cursor: url(https://cdn.jsdelivr.net/gh/Li-Zi-stu/Blog@1.9/themes/Sakura/images/cursor/No_Disponible.cur), auto;
     opacity: 1
 }
 
@@ -4385,7 +4385,7 @@ body.dark .ins-section .fa{
 }
 .ins-section .ins-section-header,.ins-section .ins-search-item {
 	padding: 8px 15px;
-	cursor: url(https://cdn.jsdelivr.net/gh/Li-Zi-stu/Blog@1.8/themes/Sakura/images/cursor/texto.cur),auto;
+	cursor: url(https://cdn.jsdelivr.net/gh/Li-Zi-stu/Blog@1.9/themes/Sakura/images/cursor/ayuda.cur),auto;
 }
 
 .ins-section .ins-search-item .search-keyword {
@@ -4420,7 +4420,7 @@ body.dark .ins-section .fa{
 	font-size: 12px;
 	color: #9a9a9a;
 	margin: 5px 0 0 0px;
-	cursor: url(https://cdn.jsdelivr.net/gh/Li-Zi-stu/Blog@1.8/themes/Sakura/images/cursor/texto.cur),auto;
+	cursor: url(https://cdn.jsdelivr.net/gh/Li-Zi-stu/Blog@1.9/themes/Sakura/images/cursor/ayuda.cur),auto;
 }
 
 .ins-section .ins-search-item:hover,.ins-section .ins-search-item.active {
@@ -6099,7 +6099,7 @@ body.dark .user-menu-option a:hover {
     border: 0;
     color: #fff;
     line-height: 1;
-    cursor: url(https://cdn.jsdelivr.net/gh/moezx/cdn@3.1.9/img/Sakura/cursor/No_Disponible.cur), auto;
+    cursor: url(https://cdn.jsdelivr.net/gh/Li-Zi-stu/Blog@1.9/themes/Sakura/images/cursor/No_Disponible.cur), auto;
     font-size: 14px;
     font-weight: 500;
     padding: 7px 15px;
@@ -6241,7 +6241,7 @@ input.botui-actions-text-input::-moz-focus-inner {
 }
 
 button.botui-actions-buttons-button {
-    cursor: url(https://cdn.jsdelivr.net/gh/moezx/cdn@3.1.9/img/Sakura/cursor/No_Disponible.cur), auto;
+    cursor: url(https://cdn.jsdelivr.net/gh/Li-Zi-stu/Blog@1.9/themes/Sakura/images/cursor/No_Disponible.cur), auto;
     -webkit-appearance: button
 }
 
@@ -7659,7 +7659,7 @@ a.toc-link {
 .emotion-item,
 .on-hover,
 .tieba-container span {
-    cursor: url(https://cdn.jsdelivr.net/gh/moezx/cdn@3.1.9/img/Sakura/cursor/No_Disponible.cur), auto
+    cursor: url(https://cdn.jsdelivr.net/gh/Li-Zi-stu/Blog@1.9/themes/Sakura/images/cursor/No_Disponible.cur), auto
 }
 
 .alignright {
@@ -8145,7 +8145,7 @@ a.toc-link {
     padding: 2px;
     text-shadow: none;
     border-radius: 0 0 5px 5px;
-    cursor: url(https://cdn.jsdelivr.net/gh/moezx/cdn@3.1.9/img/Sakura/cursor/texto.cur), auto
+    cursor: url(https://cdn.jsdelivr.net/gh/Li-Zi-stu/Blog@1.9/themes/Sakura/images/cursor/texto.cur), auto
 }
 
 .highlight-wrap code[data-rel]:before {
