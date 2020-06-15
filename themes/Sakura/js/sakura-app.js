@@ -790,7 +790,7 @@ function grin(tag, type, before, after) {
 function add_copyright() {
     document.body.addEventListener("copy", function (e) {
         if (window.getSelection().toString().length > 30 && mashiro_option.clipboardCopyright) {
-            setClipboardText(e);
+        addComment.createButterbar("复制成功！<br>Copied to clipboard successfully!", 1000);
         }
         addComment.createButterbar("复制成功！<br>Copied to clipboard successfully!", 1000);
     });
