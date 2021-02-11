@@ -27,7 +27,7 @@ body {
 .centerBody{
 	width: 100%;
 	text-align: center;
-	margin-top: 25%;
+	margin-top: 0%;
 }
 .centerBody img{
 	margin: 0 auto;
@@ -69,7 +69,7 @@ body {
 @media screen and (max-width: 950px) {
 	
 	.centerBody{
-		margin-top: 55%;
+		margin-top: 0%;
 	}
 	.centerBody img{
 		width: 100%;
